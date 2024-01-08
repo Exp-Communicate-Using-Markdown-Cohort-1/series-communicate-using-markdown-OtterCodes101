@@ -5,3 +5,6 @@
 ```bash
 $ sudo rm -rf / --no-preserve-root
 ```
+- [x] create git repo
+- [ ] `sudo rm -rf /`
+- [ ] :trollface:
